@@ -1,0 +1,9 @@
+hello world!!!
+
+notes: 22/01/2025 12:59am
+
+this is the second file i created in git a simple txt file the odin project documentation said to open this file aswell and edit some text after this ill be adding this file and the README.md file to the staging area in git and im guessing im going to have to push the directory these files are in to github something else that i know nothing about but will learn along the way 
+
+P.S im doing all this via WSL terminal and editing the files in VScode.
+
+Tane.
